@@ -3,8 +3,8 @@
 This is a very simple React project that utilizes the Rick & Morty API.
 In this application you can list all the characters based on the attributes that you choose. You can list the characters based on their gender and their alive/dead status.
 
-![Main page with nothing selected](https://github.com/Schwarzemann/RMAPIA/blob/main/doc/screenshot_1.png)
-![Some filtering](https://github.com/Schwarzemann/RMAPIA/blob/main/doc/screenshot_2.png)
+![Main page with nothing selected](https://github.com/Schwarzemann/RMAPIA/blob/main/doc/screenshot_2.png)
+![Some filtering](https://github.com/Schwarzemann/RMAPIA/blob/main/doc/screenshot_1.png)
 
 ## How to Run
 
