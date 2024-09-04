@@ -1,0 +1,61 @@
+body {
+  background-color: #0a0f0e; /* Dark background */
+  color: #FFFFFF;
+  font-family: 'Press Start 2P', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #00FF00; /* Neon green for headings */
+  text-shadow: 0px 0px 8px #00FF00;
+}
+
+select {
+  background-color: #2a2a2a;
+  color: #FFFFFF;
+  border: 2px solid #00FF00;
+  padding: 5px;
+  margin: 10px;
+  font-family: 'Press Start 2P', cursive;
+  border-radius: 5px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.character-card {
+  background-color: #1a1a1a;
+  border: 2px solid #00FF00;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 250px;
+  text-align: center;
+  padding: 15px;
+  margin: 15px auto; /* Centers the card */
+  overflow: hidden;  /* Ensures that no content overflows */
+}
+
+.character-card img {
+  border-radius: 5px;
+  width: 100%;  /* Ensure the image takes up the full width of the card */
+  height: auto;  /* Maintain the aspect ratio */
+  display: block;
+}
+
+.character-card h2 {
+  font-size: 18px;
+  color: #00FF00;
+  margin: 10px 0; /* Add some margin to the title */
+}
+
+.character-card p {
+  font-size: 14px;
+  color: #FFFFFF;
+}

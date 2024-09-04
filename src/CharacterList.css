@@ -1,0 +1,9 @@
+.filters {
+    margin-bottom: 20px;
+}
+
+.character-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
