@@ -10,11 +10,11 @@ In this application you can list all the characters based on the attributes that
 
 In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 But before running this command I recommend first installing the Node modules with the command given below.
 
-### `npm install`
+`npm install`
 
 After that you can start the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
